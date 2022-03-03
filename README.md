@@ -18,3 +18,7 @@ docker
 
 - docker pull
 
+docker exec CONTAINER COMMAND
+
+-d := detatched mode fore container
+docker attack CONTAINER
