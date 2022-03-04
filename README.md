@@ -15,7 +15,7 @@ docker
 
 - docker images
 - docker rmi ..
-
+ 
 - docker pull
 
 docker exec CONTAINER COMMAND
